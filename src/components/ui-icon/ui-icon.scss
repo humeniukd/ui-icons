@@ -1,0 +1,8 @@
+:host {
+  position: var(--icon-position, relative);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background: transparent;
+}
